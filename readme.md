@@ -1,0 +1,1 @@
+As simple as Canvas2D and as FAST as WebGL/WebGPU.
